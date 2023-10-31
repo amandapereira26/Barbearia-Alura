@@ -2,6 +2,10 @@ body {
     background-color: rgba(122, 8, 209, 0.307);
 }
 
+    #banner {
+        width: 100%;
+}
+
 h1{
     color: blueviolet;
     text-align: center;
@@ -12,6 +16,10 @@ p {
     font: size 20px;
 }
 
- em strong {
-    color:rgba(95, 5, 175, 0.814);
+    #missao{
+
+
+} 
+em strong {
+   color:rgba(95, 5, 175, 0.814);
 }
